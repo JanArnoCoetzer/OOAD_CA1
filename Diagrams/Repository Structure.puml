@@ -1,0 +1,27 @@
+@startsalt
+{
+Title "Repository Structure"
+{T
+ + ca1-analysis/
+ ++ README.md
+ ++ report/
+ +++ KETCo_Requirements_Specification_v1.0.pdf
+ ++ requirements/
+ +++ requirements_catalogue.csv
+ ++ features/
+ +++ intake_and_mapping.feature
+ +++ offline_collection.feature
+ +++ chain_of_custody.feature
+ +++ lab_operations.feature
+ ++ diagrams/
+ +++ use-case-model.puml
+ +++ use-case-model.png
+ +++ domain-model.puml
+ +++ domain-model.png
+ ++ decisions/
+ +++ architecture_decision_records.md
+ ++ references/
+ +++ library_standards.md
+}
+}
+@endsalt
